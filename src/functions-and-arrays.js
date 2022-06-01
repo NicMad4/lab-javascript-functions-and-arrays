@@ -74,7 +74,7 @@ function averageWordLength(laArrQueEvaluo) {
 averageWordLength(wordsArr)
 
 // Bonus - Iteration #4.1
-function avg() {}
+function avg() {};
 
 // Iteration #5: Unique arrays
 const wordsUnique = [
